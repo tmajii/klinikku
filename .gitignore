@@ -1,6 +1,6 @@
 # CodeIgniter 4
-/writable/*
-!/writable/.gitkeep
+# /writable/*
+# !/writable/.gitkeep
 /public/uploads/*
 !/public/uploads/.gitkeep
 
