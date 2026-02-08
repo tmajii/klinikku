@@ -1,0 +1,34 @@
+# CodeIgniter 4
+/writable/*
+!/writable/.gitkeep
+/public/uploads/*
+!/public/uploads/.gitkeep
+
+# Environment
+.env
+.env.*
+!env.sample
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Composer
+/vendor/
+composer.lock
+
+# Logs
+*.log
+
+# Testing
+/coverage/
+
+# Temp
+/temp/
+/cache/
