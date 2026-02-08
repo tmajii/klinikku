@@ -20,8 +20,8 @@ Thumbs.db
 *.swo
 
 # Composer
-/vendor/
-composer.lock
+# /vendor/
+# composer.lock
 
 # Logs
 *.log
